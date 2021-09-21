@@ -1,0 +1,58 @@
+﻿# Keep the UTF-8 encoding of this file or some characters may not appear correctly in the game.
+# Only the lines matching the format "URL + 1 tabulation + build title" will be listed in the import menu.
+
+# These are my personal builds, I only ever play Hacker for Stealth and Rogue Sneaky Bastard for Loud
+# It's just a simple example of how you should name the builds
+
+
+https://pd2builder.netlify.app/?s=0010-530-9fM50-9&p=k&a=0&t=0&d=4	Stealth Level 30
+Max Length ECMs, Fast Lockpicking, 6 Ties + Transporter (Great for Diamond Store)
+
+https://pd2builder.netlify.app/?s=0-830-512007U50-9&p=k&a=0&t=0&d=4	Stealth Level 40
+Max ECMs, Fast Lockpicking, Transporter + Max Drill Speed
+
+https://pd2builder.netlify.app/?s=0-830003812007U50-9&p=k&a=0&t=0&d=42	Stealth Level 50
+Max ECMs, Fast Lockpicking, Two Deployables, Transporter + Max Drill Speed
+
+https://pd2builder.netlify.app/?s=0010-530003812004X140-8&p=k&a=0&t=0&d=42	Stealth Level 60
+Shinobi Tree Aced (except Cleaner), Parkour Aced, 6 Ties + Transporter + Max Speed Drill
+
+https://pd2builder.netlify.app/?s=0010-530003812004X14380-6&p=k&a=0&t=0&d=42	Stealth Level 70
+Level 60 plus Spotter Aced
+
+https://pd2builder.netlify.app/?s=00l0-530003892000,14380-6&p=k&a=0&t=0&d=42	Stealth Level 80
+Level 70 plus Stockholm Basic, Kickstarter Basic, Cleaner Aced
+
+https://pd2builder.netlify.app/?s=00l0-53000388j000,14380-6&p=k&a=0&t=0&d=42	Stealth Level 90
+Level 80 plus Maximum Trip Mines, Hardware Expert Aced
+
+https://pd2builder.netlify.app/?s=00l0-53000380r000,142950-5&p=k&a=0&t=0&d=42	Stealth Level 100
+Level 90 plus Gun Nut Basic, Second Wind Aced, Kickstarter Aced
+
+
+https://pd2builder.netlify.app/?s=0-90-900U5l050g100&p=3&a=0&t=5&d=3	Sneaky Bastard Level 30
+Don't use this lmao
+
+https://pd2builder.netlify.app/?s=b0-90-90U5l0500h00&p=3&a=0&t=5&d=3	Sneaky Bastard Level 40
+Probably don't use this either
+
+https://pd2builder.netlify.app/?s=380-6b0-900U5l0500h00&p=3&a=0&t=5&d=3	Sneaky Bastard Level 50
+4 Doc Charges, no Jokers, Bullseye
+
+https://pd2builder.netlify.app/?s=38380-430-530-5U5l0500h00&p=3&a=0&t=5&d=3	Sneaky Bastard Level 60
+Max Doc Bags, One 99% Joker, Transporter + 1 Drill Speed
+
+https://pd2builder.netlify.app/?s=xa380-4b0-5301000U5l0500h00&p=3&a=0&t=5&d=3	Sneaky Bastard Level 70
+Basic Inspire, One 99% Joker, Bullseye, Transporter + 1 Drill Speed
+
+https://pd2builder.netlify.app/?s=1Gzc0-410-530-5U5l0500h00&p=3&a=0&t=5&d=3	Sneaky Bastard Level 80
+Medic (28), Controller (22)
+Aced Inspire, Two Jokers, Hostage Taker, 1 Drill Speed
+
+https://pd2builder.netlify.app/?s=1Gzs0-4b0-71000U5l0500h00&p=3&a=0&t=5&d=3	Sneaky Bastard Level 90
+Controller (31), Medic (28)
+Aced Inspire, Aced Stockholm, Hostage Taker, Bullseye
+
+https://pd2builder.netlify.app/?s=1Gzs0-4f0-5120-4U5l0140h00&p=3&a=0&t=5&d=3	Sneaky Bastard Level 100
+Controller (31), Medic (28)
+Aced Inspire, Aced Stockholm, Hostage Taker, Die Hard + Bullseye, Max Drill Speed, Faster Pistol Fire Rate
