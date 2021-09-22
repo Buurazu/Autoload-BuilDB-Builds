@@ -3,6 +3,7 @@
 
 # These are my personal builds, I only ever play Hacker for Stealth and Rogue Sneaky Bastard for Loud
 # It's just a simple example of how you should name the builds
+# Note that the mod doesn't load anything from this file; you have to modify your mods/saves/buildb_builds.txt file!
 
 
 https://pd2builder.netlify.app/?s=0010-530-9fM50-9&p=k&a=0&t=0&d=4	Stealth Level 30
